@@ -1,0 +1,34 @@
+{
+  "name": "renduermai",
+  "version": "1.0.0",
+  "description": "Official Site for Louis and Emily.",
+  "main": "index.js",
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^5.0.0-beta1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielle-Tsai/catch-U.git"
+  },
+  "keywords": [
+    "筋膜槍",
+    "運動",
+    "健身",
+    "復健",
+    "物理治療",
+    "sports",
+    "fitness",
+    "pilates"
+  ],
+  "author": "Gabrielle Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielle-Tsai/catch-U/issues"
+  },
+  "homepage": "https://github.com/Gabrielle-Tsai/catch-U#readme"
+}

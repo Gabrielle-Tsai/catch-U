@@ -1,0 +1,13 @@
+@import "BT5";
+
+.bg-banner {
+    background-image: url(../../images/push-up-banner.jpg);
+    height: 450px;
+    background: {
+        position: 1% 60%;
+        size: cover; 
+    }
+    @include media-breakpoint-up(md){
+        background-position: 1% 25%;
+    }
+}
